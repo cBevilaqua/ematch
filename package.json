@@ -1,0 +1,16 @@
+{
+  "name": "ematch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "cristiano.sar@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^2.0.0",
+    "socket.io": "^3.1.2"
+  }
+}
